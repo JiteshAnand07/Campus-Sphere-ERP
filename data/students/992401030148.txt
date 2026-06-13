@@ -1,0 +1,42 @@
+992401030148 khil`
+Batch: Batch2
+Name: Krishna Joshi
+Age: 20
+Phone: +91-8588334796
+Email: 992401030148@mail.jiit.ac.in
+Attendance:
+2025-04-13 extra edd present
+2025-04-13 regular maths present
+2025-04-13 regular maths present
+2025-04-14 regular maths absent
+2025-04-14 regular maths present
+2025-04-14 regular maths present
+2025-04-15 regular sdf absent
+2025-04-15 extra sdf absent
+2025-04-15 regular physics absent
+2025-04-16 extra uhv absent
+2025-04-16 regular uhv present
+2025-04-16 regular maths absent
+2025-04-17 regular physics absent
+2025-04-17 regular uhv absent
+2025-04-17 regular sdf absent
+2025-04-18 extra sdf present
+2025-04-18 regular sdf absent
+2025-04-18 regular sdf absent
+2025-04-21 regular physics absent
+2025-04-21 regular sdf absent
+2025-04-21 regular physics present
+2025-04-22 regular sdf absent
+2025-04-22 regular sdf present
+2025-04-22 regular maths absent
+Marks:
+Physics Midterm 2025-03-21 17
+Physics Endterm 2025-05-24 30
+Sdf Midterm 2025-03-21 18
+Sdf Endterm 2025-05-24 32
+Maths Midterm 2025-03-21 15
+Maths Endterm 2025-05-24 16
+Uhv Midterm 2025-03-21 20
+Uhv Endterm 2025-05-24 18
+Edd Midterm 2025-03-21 11
+Edd Endterm 2025-05-24 15

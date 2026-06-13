@@ -1,0 +1,47 @@
+992401030154 khiml
+Batch: Batch2
+Name: Aarav Verma
+Age: 20
+Phone: +91-9514908389
+Email: 992401030154@mail.jiit.ac.in
+Attendance:
+2025-04-22 regular physics present
+2025-04-22 extra sdf present
+2025-04-22 regular uhv present
+2025-04-22 regular edd absent
+2025-04-21 extra physics absent
+2025-04-21 regular maths absent
+2025-04-21 extra uhv present
+2025-04-21 regular edd present
+2025-04-18 regular sdf present
+2025-04-18 extra edd present
+2025-04-18 regular uhv absent
+2025-04-18 extra physics absent
+2025-04-17 extra maths absent
+2025-04-17 regular physics absent
+2025-04-17 extra edd absent
+2025-04-16 regular physics present
+2025-04-16 regular uhv absent
+2025-04-16 regular sdf present
+2025-04-16 extra maths absent
+2025-04-15 extra maths present
+2025-04-15 extra physics present
+2025-04-15 regular sdf absent
+2025-04-15 regular uhv absent
+2025-04-14 regular sdf present
+2025-04-14 extra edd present
+2025-04-14 regular maths present
+2025-04-13 extra uhv absent
+2025-04-13 extra sdf absent
+2025-04-13 regular physics present
+Marks:
+Physics Midterm 2025-03-21 19
+Physics Endterm 2025-05-24 34
+Sdf Midterm 2025-03-21 13
+Sdf Endterm 2025-05-24 27
+Maths Midterm 2025-03-21 17
+Maths Endterm 2025-05-24 22
+Uhv Midterm 2025-03-21 15
+Uhv Endterm 2025-05-24 35
+Edd Midterm 2025-03-21 12
+Edd Endterm 2025-05-24 28

@@ -1,0 +1,27 @@
+abhinav.saxena 9
+Department: ECE
+Name: Abhinav Saxena
+Age: 34
+Phone: +91-7841246949
+Email: abhinav.saxena@mail.jiit.ac.in
+Courses: Circuit Analysis Basic Electronics VLSI
+Attendance:
+2025-04-05 lecture
+2025-04-06 lecture
+2025-04-07 lecture
+2025-04-08 lecture
+2025-04-09 lecture
+2025-04-10 tutorial
+2025-04-11 lecture
+2025-04-12 lecture
+2025-04-13 tutorial
+2025-04-14 tutorial
+2025-04-15 lecture
+2025-04-16 tutorial
+2025-04-17 lecture
+2025-04-18 tutorial
+2025-04-19 lab
+2025-04-20 lecture
+2025-04-21 lab
+2025-04-22 lecture
+2025-04-23 lecture

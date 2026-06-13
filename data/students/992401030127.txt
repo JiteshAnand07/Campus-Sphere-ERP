@@ -1,0 +1,42 @@
+992401030127 khijo
+Batch: Batch1
+Name: Yashwardhan
+Age: 20
+Phone: +91-8422144957
+Email: 992401030127@mail.jiit.ac.in
+Attendance:
+2025-04-13 extra maths absent
+2025-04-13 regular physics absent
+2025-04-13 regular physics present
+2025-04-14 extra sdf absent
+2025-04-14 extra physics present
+2025-04-14 regular maths present
+2025-04-15 regular edd present
+2025-04-15 extra edd absent
+2025-04-15 regular physics absent
+2025-04-16 regular sdf absent
+2025-04-16 extra uhv absent
+2025-04-16 regular physics absent
+2025-04-17 extra physics present
+2025-04-17 regular uhv present
+2025-04-17 regular sdf absent
+2025-04-18 extra maths absent
+2025-04-18 regular physics present
+2025-04-18 regular sdf absent
+2025-04-21 regular maths absent
+2025-04-21 regular sdf absent
+2025-04-21 regular physics absent
+2025-04-22 extra sdf present
+2025-04-22 extra maths present
+2025-04-22 regular maths present
+Marks:
+Physics Midterm 2025-03-21 12
+Physics Endterm 2025-05-24 25
+Sdf Midterm 2025-03-21 20
+Sdf Endterm 2025-05-24 34
+Maths Midterm 2025-03-21 19
+Maths Endterm 2025-05-24 24
+Uhv Midterm 2025-03-21 17
+Uhv Endterm 2025-05-24 34
+Edd Midterm 2025-03-21 15
+Edd Endterm 2025-05-24 29

@@ -1,0 +1,42 @@
+992401030145 khilm
+Batch: Batch2
+Name: Ayaan Shah
+Age: 20
+Phone: +91-7347651867
+Email: 992401030145@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular uhv absent
+2025-04-13 extra maths absent
+2025-04-13 regular sdf absent
+2025-04-14 regular sdf absent
+2025-04-14 extra physics present
+2025-04-14 regular maths present
+2025-04-15 extra sdf present
+2025-04-15 extra edd present
+2025-04-15 regular physics absent
+2025-04-16 extra physics present
+2025-04-16 regular sdf absent
+2025-04-16 regular sdf present
+2025-04-17 regular maths absent
+2025-04-17 regular maths present
+2025-04-17 regular maths present
+2025-04-18 extra uhv absent
+2025-04-18 regular sdf absent
+2025-04-18 regular maths absent
+2025-04-21 regular sdf absent
+2025-04-21 regular physics absent
+2025-04-21 regular sdf present
+2025-04-22 extra physics present
+2025-04-22 extra maths present
+2025-04-22 regular physics absent
+Marks:
+Physics Midterm 2025-03-21 17
+Physics Endterm 2025-05-24 26
+Sdf Midterm 2025-03-21 20
+Sdf Endterm 2025-05-24 35
+Maths Midterm 2025-03-21 13
+Maths Endterm 2025-05-24 24
+Uhv Midterm 2025-03-21 12
+Uhv Endterm 2025-05-24 18
+Edd Midterm 2025-03-21 19
+Edd Endterm 2025-05-24 17

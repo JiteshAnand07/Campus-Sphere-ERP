@@ -1,0 +1,48 @@
+992401030167 khino
+Batch: Batch4
+Name: Ishaan Sharma
+Age: 20
+Phone: +91-6428917173
+Email: 992401030167@mail.jiit.ac.in
+Attendance:
+2025-04-22 extra sdf present
+2025-04-22 extra uhv absent
+2025-04-22 extra edd absent
+2025-04-22 regular physics absent
+2025-04-21 extra maths present
+2025-04-21 regular edd absent
+2025-04-21 regular uhv present
+2025-04-21 extra sdf present
+2025-04-18 regular physics absent
+2025-04-18 regular uhv absent
+2025-04-18 extra edd present
+2025-04-18 extra sdf present
+2025-04-17 extra edd absent
+2025-04-17 extra uhv present
+2025-04-17 regular maths absent
+2025-04-16 extra edd present
+2025-04-16 regular sdf absent
+2025-04-16 regular physics absent
+2025-04-15 extra maths absent
+2025-04-15 extra physics absent
+2025-04-15 regular edd present
+2025-04-15 extra sdf present
+2025-04-14 extra physics absent
+2025-04-14 regular sdf absent
+2025-04-14 extra maths present
+2025-04-14 extra edd absent
+2025-04-13 regular uhv present
+2025-04-13 extra sdf absent
+2025-04-13 extra edd absent
+2025-04-13 extra maths absent
+Marks:
+Physics Midterm 2025-03-21 15
+Physics Endterm 2025-05-24 16
+Sdf Midterm 2025-03-21 10
+Sdf Endterm 2025-05-24 21
+Maths Midterm 2025-03-21 14
+Maths Endterm 2025-05-24 26
+Uhv Midterm 2025-03-21 19
+Uhv Endterm 2025-05-24 32
+Edd Midterm 2025-03-21 13
+Edd Endterm 2025-05-24 31

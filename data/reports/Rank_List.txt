@@ -1,0 +1,105 @@
+======================================================================
+  STUDENT RANK LIST
+======================================================================
+  Rank  Roll No         Name                    Avg Marks   Attendance%
+  ----------------------------------------------------------------
+  1     992401030141    Jitesh Anand           25          40.0%
+  2     992401030124    Shaurya Verma           24          41.7%
+  3     992401030147    Tanmay Saini            23          62.5%
+  4     992401030168    Aditya Sharma           23          29.6%
+  5     992401030132    Pooja Pandey            23          45.8%
+  6     992401030127    Yashwardhan             22          41.7%
+  7     992401030197    Ishaan Singh            22          42.3%
+  8     992401030177    Riya Singh              22          58.6%
+  9     992401030180    Aanya Patel             22          46.4%
+  10    992401030193    Riya Nair               22          34.6%
+  11    992401030158    Saanvi Mehta            22          48.0%
+  12    992401030116    Vihaan Gupta            22          50.0%
+  13    992401030154    Aarav Verma             22          51.7%
+  14    992401030187    Saanvi Mehta            22          39.3%
+  15    992401030182    Vivaan Nair             22          60.0%
+  16    992401030156    Aanya Sharma            21          60.7%
+  17    992401030179    Riya Singh              21          53.8%
+  18    992401030107    Ridhima Khatri          21          45.8%
+  19    992401030142    Devansh Nair            21          33.3%
+  20    992401030139    Tanmay Saini            21          50.0%
+  21    992401030174    Krishna Patel           21          45.2%
+  22    992401030190    Diya Singh              21          48.3%
+  23    992401030162    Ishaan Mehta            21          59.3%
+  24    992401030186    Aanya Kumar             21          31.0%
+  25    992401030196    Krishna Das             21          42.9%
+  26    992401030100    Aarav Kumar             21          33.3%
+  27    992401030104    Ishaan Mehta            21          41.7%
+  28    992401030164    Aditya Patel            21          57.1%
+  29    992401030133    Aditya Singh            21          58.3%
+  30    992401030159    Vivaan Mehta            20          55.2%
+  31    992401030140    Kavya Joshi            20          66.7%
+  32    992401030149    Vanshita Chawla         20          54.2%
+  33    992401030165    Vivaan Das              20          55.2%
+  34    992401030111    Rohit Yadav             20          45.8%
+  35    992401030181    Krishna Mehta           20          50.0%
+  36    992401030175    Krishna Verma           20          55.2%
+  37    992401030157    Ishaan Joshi            20          48.1%
+  38    992401030119    Ayaan Shah              20          50.0%
+  39    992401030163    Aarav Kumar             20          50.0%
+  40    992401030136    Rohit Yadav             20          62.5%
+  41    992401030171    Diya Patel              20          50.0%
+  42    992401030199    Ishaan Kumar            20          51.9%
+  43    992401030122    Arjun Patel             20          41.7%
+  44    992401030152    Ishaan Sharma           20          53.6%
+  45    992401030128    Shivansh Prasad        20          52.0%
+  46    992401030170    Diya Kumar              20          46.4%
+  47    992401030101    Dhruv Agarwal           20          62.5%
+  48    992401030117    Manav Thakur            20          54.2%
+  49    992401030134    Ridhima Khatri          20          41.7%
+  50    992401030161    Krishna Nair            20          64.3%
+  51    992401030114    Shaurya Verma           20          66.7%
+  52    992401030145    Ayaan Shah              20          45.8%
+  53    992401030155    Saanvi Kumar            20          42.9%
+  54    992401030173    Aanya Das               19          50.0%
+  55    992401030144    Vanshita Chawla         19          37.5%
+  56    992401030105    Shivansh Prasad         19          41.7%
+  57    992401030178    Ishaan Patel            19          44.4%
+  58    992401030184    Ishaan Nair             19          67.9%
+  59    992401030131    Kavya Joshi             19          41.7%
+  60    992401030129    Aarav Kumar             19          41.7%
+  61    992401030167    Ishaan Sharma           19          40.0%
+  62    992401030192    Vivaan Patel            19          46.2%
+  63    992401030189    Saanvi Joshi            19          37.0%
+  64    992401030103    Kavya Joshi             19          54.2%
+  65    992401030108    Shivansh Prasad         19          37.5%
+  66    992401030138    Reyansh Reddy           19          41.7%
+  67    992401030198    Ananya Kumar            19          50.0%
+  68    992401030191    Aanya Patel             19          36.7%
+  69    992401030169    Ishaan Patel            19          51.9%
+  70    992401030130    Arjun Patel             19          33.3%
+  71    992401030195    Ishaan Verma            19          67.9%
+  72    992401030194    Riya Sharma             19          46.2%
+  73    992401030143    Tanmay Saini            19          37.5%
+  74    992401030135    Vihaan Gupta            19          41.7%
+  75    992401030120    Aarav Kumar             19          50.0%
+  76    992401030148    Krishna Joshi           19          37.5%
+  77    992401030112    Vivaan Sharma           19          41.7%
+  78    992401030109    Harshit Mishra          18          54.2%
+  79    992401030118    Ishaan Mehta            18          25.0%
+  80    992401030183    Diya Das                18          53.6%
+  81    992401030146    Vanshita Chawla         18          50.0%
+  82    992401030102    Pooja Pandey            18          41.7%
+  83    992401030150    Yashwardhan             18          41.7%
+  84    992401030125    Kavya Joshi             18          45.8%
+  85    992401030160    Aanya Patel             18          42.9%
+  86    992401030106    Aditya Singh            18          54.2%
+  87    992401030121    Aarav Kumar             18          50.0%
+  88    992401030126    Vihaan Gupta            18          62.5%
+  89    992401030110    Arjun Patel             18          62.5%
+  90    992401030172    Krishna Sharma          18          35.7%
+  91    992401030123    Sai Kumar               18          37.5%
+  92    992401030185    Aanya Reddy             18          29.6%
+  93    992401030176    Aanya Das               18          37.9%
+  94    992401030115    Kian Rani               18          50.0%
+  95    992401030151    Aanya Nair              18          50.0%
+  96    992401030166    Aditya Reddy            18          35.7%
+  97    992401030137    Manav Thakur            17          58.3%
+  98    992401030188    Vivaan Patel            17          43.3%
+  99    992401030153    Vivaan Das              17          55.6%
+======================================================================

@@ -1,0 +1,47 @@
+992401030176 khion
+Batch: Batch6
+Name: Aanya Das
+Age: 20
+Phone: +91-7351732278
+Email: 992401030176@mail.jiit.ac.in
+Attendance:
+2025-04-22 extra uhv absent
+2025-04-22 extra maths absent
+2025-04-22 extra sdf present
+2025-04-22 regular physics absent
+2025-04-21 regular uhv absent
+2025-04-21 regular physics absent
+2025-04-21 regular maths absent
+2025-04-18 extra sdf absent
+2025-04-18 extra edd absent
+2025-04-18 extra uhv present
+2025-04-17 extra uhv present
+2025-04-17 regular physics absent
+2025-04-17 regular sdf absent
+2025-04-17 extra maths absent
+2025-04-16 extra physics absent
+2025-04-16 regular uhv absent
+2025-04-16 regular sdf present
+2025-04-16 extra edd present
+2025-04-15 regular sdf absent
+2025-04-15 extra edd present
+2025-04-15 regular physics present
+2025-04-15 extra uhv present
+2025-04-14 regular uhv absent
+2025-04-14 regular physics absent
+2025-04-14 extra edd absent
+2025-04-13 extra physics present
+2025-04-13 regular edd present
+2025-04-13 extra sdf present
+2025-04-13 extra maths absent
+Marks:
+Physics Midterm 2025-03-21 17
+Physics Endterm 2025-05-24 22
+Sdf Midterm 2025-03-21 18
+Sdf Endterm 2025-05-24 18
+Maths Midterm 2025-03-21 17
+Maths Endterm 2025-05-24 18
+Uhv Midterm 2025-03-21 19
+Uhv Endterm 2025-05-24 24
+Edd Midterm 2025-03-21 14
+Edd Endterm 2025-05-24 15

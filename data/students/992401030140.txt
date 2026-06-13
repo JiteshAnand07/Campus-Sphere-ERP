@@ -1,0 +1,43 @@
+992401030140 khilh
+Batch: Batch2
+Name: Kavya Joshi
+Age: 18
+Phone: +91-8443099104
+Email: 992401030140@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular uhv present
+2025-04-13 regular physics present
+2025-04-13 regular sdf present
+2025-04-14 extra edd present
+2025-04-14 extra uhv present
+2025-04-14 regular maths present
+2025-04-15 regular uhv present
+2025-04-15 extra maths present
+2025-04-15 regular sdf present
+2025-04-16 regular sdf present
+2025-04-16 regular sdf present
+2025-04-16 regular maths absent
+2025-04-17 regular maths present
+2025-04-17 regular maths absent
+2025-04-17 regular physics absent
+2025-04-18 regular physics present
+2025-04-18 regular sdf absent
+2025-04-18 regular sdf present
+2025-04-21 regular sdf absent
+2025-04-21 regular uhv present
+2025-04-21 regular physics present
+2025-04-22 regular sdf absent
+2025-04-22 extra sdf absent
+2025-04-22 regular maths absent
+Marks:
+Physics Midterm 2025-03-21 20
+Physics Endterm 2025-05-24 21
+Sdf Midterm 2025-03-21 20
+Sdf Endterm 2025-05-24 20
+Maths Midterm 2025-03-21 10
+Maths Endterm 2025-05-24 32
+Uhv Midterm 2025-03-21 14
+Uhv Endterm 2025-05-24 22
+Edd Midterm 2025-03-21 19
+Edd Endterm 2025-05-24 26
+SDF Endterm 2025-05-20 25

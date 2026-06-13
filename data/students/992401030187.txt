@@ -1,0 +1,46 @@
+992401030187 khi`o
+Batch: Batch8
+Name: Saanvi Mehta
+Age: 19
+Phone: +91-6767463861
+Email: 992401030187@mail.jiit.ac.in
+Attendance:
+2025-04-22 regular sdf absent
+2025-04-22 extra maths absent
+2025-04-22 extra physics present
+2025-04-21 regular sdf absent
+2025-04-21 regular uhv absent
+2025-04-21 regular edd present
+2025-04-21 extra maths present
+2025-04-18 regular maths absent
+2025-04-18 extra sdf absent
+2025-04-18 extra uhv present
+2025-04-17 extra edd absent
+2025-04-17 regular physics absent
+2025-04-17 regular maths present
+2025-04-17 regular sdf present
+2025-04-16 regular uhv present
+2025-04-16 regular edd absent
+2025-04-16 regular physics present
+2025-04-16 regular maths present
+2025-04-15 regular uhv absent
+2025-04-15 regular physics absent
+2025-04-15 regular maths present
+2025-04-14 regular sdf absent
+2025-04-14 regular edd absent
+2025-04-14 extra physics absent
+2025-04-13 regular edd absent
+2025-04-13 extra physics absent
+2025-04-13 regular uhv present
+2025-04-13 regular maths absent
+Marks:
+Physics Midterm 2025-03-21 19
+Physics Endterm 2025-05-24 18
+Sdf Midterm 2025-03-21 20
+Sdf Endterm 2025-05-24 30
+Maths Midterm 2025-03-21 20
+Maths Endterm 2025-05-24 27
+Uhv Midterm 2025-03-21 13
+Uhv Endterm 2025-05-24 29
+Edd Midterm 2025-03-21 19
+Edd Endterm 2025-05-24 25

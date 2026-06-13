@@ -1,0 +1,42 @@
+992401030102 khihj
+Batch: Batch1
+Name: Pooja Pandey
+Age: 19
+Phone: +91-8767515492
+Email: 992401030102@mail.jiit.ac.in
+Attendance:
+2025-04-13 extra physics absent
+2025-04-13 extra edd absent
+2025-04-13 regular maths present
+2025-04-14 regular sdf absent
+2025-04-14 extra uhv present
+2025-04-14 regular sdf absent
+2025-04-15 regular physics absent
+2025-04-15 regular maths present
+2025-04-15 regular sdf absent
+2025-04-16 regular maths present
+2025-04-16 extra physics absent
+2025-04-16 regular maths absent
+2025-04-17 regular physics present
+2025-04-17 regular physics absent
+2025-04-17 regular sdf absent
+2025-04-18 regular physics absent
+2025-04-18 regular physics present
+2025-04-18 regular maths present
+2025-04-21 regular sdf absent
+2025-04-21 regular sdf present
+2025-04-21 regular physics absent
+2025-04-22 extra uhv present
+2025-04-22 extra sdf present
+2025-04-22 regular physics absent
+Marks:
+Physics Midterm 2025-03-21 12
+Physics Endterm 2025-05-24 16
+Sdf Midterm 2025-03-21 12
+Sdf Endterm 2025-05-24 17
+Maths Midterm 2025-03-21 11
+Maths Endterm 2025-05-24 24
+Uhv Midterm 2025-03-21 17
+Uhv Endterm 2025-05-24 31
+Edd Midterm 2025-03-21 11
+Edd Endterm 2025-05-24 35

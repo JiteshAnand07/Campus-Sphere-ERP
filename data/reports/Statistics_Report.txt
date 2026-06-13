@@ -1,0 +1,19 @@
+============================================================
+  SYSTEM-WIDE STATISTICS
+============================================================
+  Total Students     : 100
+------------------------------------------------------------
+  MARKS STATISTICS
+  Highest Avg Marks  : 25.0
+  Lowest  Avg Marks  : 0.0
+  Average Marks      : 20.1
+  Pass %             : 0.0%
+  Fail %             : 100.0%
+  Topper             : Jitesh Anand (25.0)
+------------------------------------------------------------
+  ATTENDANCE STATISTICS
+  Highest Attendance : 67.9%
+  Lowest  Attendance : 0.0%
+  Average Attendance : 47.1%
+  Lowest Att. Student: 992401030113 (0.0%)
+============================================================

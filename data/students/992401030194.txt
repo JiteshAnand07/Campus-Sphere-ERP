@@ -1,0 +1,44 @@
+992401030194 khial
+Batch: Batch9
+Name: Riya Sharma
+Age: 18
+Phone: +91-9996840717
+Email: 992401030194@mail.jiit.ac.in
+Attendance:
+2025-04-22 extra edd present
+2025-04-22 regular physics absent
+2025-04-22 regular uhv present
+2025-04-21 extra maths absent
+2025-04-21 regular uhv present
+2025-04-21 extra physics absent
+2025-04-18 regular uhv absent
+2025-04-18 extra maths absent
+2025-04-18 extra sdf present
+2025-04-17 regular maths present
+2025-04-17 regular physics absent
+2025-04-17 regular edd absent
+2025-04-16 regular edd absent
+2025-04-16 regular physics absent
+2025-04-16 regular uhv absent
+2025-04-15 regular sdf absent
+2025-04-15 regular uhv absent
+2025-04-15 extra edd present
+2025-04-15 extra physics absent
+2025-04-14 regular edd absent
+2025-04-14 regular physics present
+2025-04-14 regular sdf present
+2025-04-13 extra edd present
+2025-04-13 regular sdf present
+2025-04-13 extra uhv present
+2025-04-13 regular maths present
+Marks:
+Physics Midterm 2025-03-21 19
+Physics Endterm 2025-05-24 21
+Sdf Midterm 2025-03-21 18
+Sdf Endterm 2025-05-24 20
+Maths Midterm 2025-03-21 19
+Maths Endterm 2025-05-24 21
+Uhv Midterm 2025-03-21 10
+Uhv Endterm 2025-05-24 31
+Edd Midterm 2025-03-21 15
+Edd Endterm 2025-05-24 20

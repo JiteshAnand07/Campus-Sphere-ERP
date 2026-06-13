@@ -1,0 +1,27 @@
+priya.iyer v1!=*
+Department: PMSE
+Name: Priya Iyer
+Age: 40
+Phone: +91-9751228142
+Email: priya.iyer@mail.jiit.ac.in
+Courses: Physics UHV Chemistry
+Attendance:
+2025-04-05 tutorial
+2025-04-06 lecture
+2025-04-07 lecture
+2025-04-08 lecture
+2025-04-09 lecture
+2025-04-10 lecture
+2025-04-11 lecture
+2025-04-12 lecture
+2025-04-13 lecture
+2025-04-14 tutorial
+2025-04-15 tutorial
+2025-04-16 lab
+2025-04-17 lecture
+2025-04-18 lecture
+2025-04-19 lecture
+2025-04-20 tutorial
+2025-04-21 lecture
+2025-04-22 tutorial
+2025-04-23 lecture

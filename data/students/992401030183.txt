@@ -1,0 +1,46 @@
+992401030183 khi`k
+Batch: Batch7
+Name: Diya Das
+Age: 20
+Phone: +91-8628742018
+Email: 992401030183@mail.jiit.ac.in
+Attendance:
+2025-04-22 extra maths absent
+2025-04-22 extra sdf present
+2025-04-22 regular uhv absent
+2025-04-21 extra physics absent
+2025-04-21 regular edd absent
+2025-04-21 extra uhv present
+2025-04-21 extra sdf present
+2025-04-18 regular maths absent
+2025-04-18 extra uhv present
+2025-04-18 extra sdf present
+2025-04-17 regular maths absent
+2025-04-17 regular physics absent
+2025-04-17 extra uhv absent
+2025-04-16 extra uhv present
+2025-04-16 extra physics present
+2025-04-16 extra maths absent
+2025-04-15 extra sdf absent
+2025-04-15 regular uhv present
+2025-04-15 extra edd present
+2025-04-15 regular physics present
+2025-04-14 extra edd present
+2025-04-14 extra maths present
+2025-04-14 regular sdf present
+2025-04-14 extra physics absent
+2025-04-13 extra uhv present
+2025-04-13 regular maths absent
+2025-04-13 extra sdf absent
+2025-04-13 extra physics present
+Marks:
+Physics Midterm 2025-03-21 10
+Physics Endterm 2025-05-24 28
+Sdf Midterm 2025-03-21 19
+Sdf Endterm 2025-05-24 15
+Maths Midterm 2025-03-21 20
+Maths Endterm 2025-05-24 16
+Uhv Midterm 2025-03-21 15
+Uhv Endterm 2025-05-24 21
+Edd Midterm 2025-03-21 14
+Edd Endterm 2025-05-24 30

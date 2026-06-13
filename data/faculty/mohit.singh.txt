@@ -1,0 +1,8 @@
+mohit.singh +16?0
+Department: CSE
+Name: Mohit Singh
+Age: 27
+Phone: +91-9853214035
+Email: mohit.singh@mail.jiit.ac.in
+Courses: DSA DAA
+Attendance:

@@ -1,0 +1,27 @@
+ajay.mehta 5=0,9
+Department: CSE
+Name: Ajay Mehta
+Age: 28
+Phone: +91-7051211494
+Email: ajay.mehta@mail.jiit.ac.in
+Courses: SDF-1 OPERATIONAL CYBER SECURITY
+Attendance:
+2025-04-05 lecture
+2025-04-06 lab
+2025-04-07 lecture
+2025-04-08 lecture
+2025-04-09 lecture
+2025-04-10 lecture
+2025-04-11 lecture
+2025-04-12 lecture
+2025-04-13 lecture
+2025-04-14 lab
+2025-04-15 tutorial
+2025-04-16 tutorial
+2025-04-17 lecture
+2025-04-18 lecture
+2025-04-19 tutorial
+2025-04-20 lecture
+2025-04-21 lecture
+2025-04-22 lecture
+2025-04-23 lecture

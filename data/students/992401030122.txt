@@ -1,0 +1,42 @@
+992401030122 khijj
+Batch: Batch1
+Name: Arjun Patel
+Age: 18
+Phone: +91-8728866603
+Email: 992401030122@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular edd present
+2025-04-13 extra edd absent
+2025-04-13 regular maths present
+2025-04-14 extra physics absent
+2025-04-14 extra sdf present
+2025-04-14 regular sdf absent
+2025-04-15 regular sdf absent
+2025-04-15 extra maths absent
+2025-04-15 regular sdf present
+2025-04-16 regular maths present
+2025-04-16 regular physics absent
+2025-04-16 regular physics absent
+2025-04-17 regular maths present
+2025-04-17 regular physics present
+2025-04-17 regular maths present
+2025-04-18 extra physics absent
+2025-04-18 regular maths absent
+2025-04-18 regular maths present
+2025-04-21 extra sdf absent
+2025-04-21 regular physics absent
+2025-04-21 regular sdf absent
+2025-04-22 regular uhv absent
+2025-04-22 regular maths present
+2025-04-22 regular physics absent
+Marks:
+Physics Midterm 2025-03-21 16
+Physics Endterm 2025-05-24 17
+Sdf Midterm 2025-03-21 19
+Sdf Endterm 2025-05-24 26
+Maths Midterm 2025-03-21 19
+Maths Endterm 2025-05-24 33
+Uhv Midterm 2025-03-21 10
+Uhv Endterm 2025-05-24 24
+Edd Midterm 2025-03-21 11
+Edd Endterm 2025-05-24 30

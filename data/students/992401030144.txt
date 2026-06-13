@@ -1,0 +1,42 @@
+992401030144 khill
+Batch: Batch2
+Name: Vanshita Chawla
+Age: 19
+Phone: +91-9026101053
+Email: 992401030144@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular maths present
+2025-04-13 regular sdf present
+2025-04-13 regular maths absent
+2025-04-14 extra physics absent
+2025-04-14 extra maths absent
+2025-04-14 regular maths present
+2025-04-15 regular maths absent
+2025-04-15 regular maths absent
+2025-04-15 regular maths absent
+2025-04-16 regular sdf absent
+2025-04-16 extra physics absent
+2025-04-16 regular physics present
+2025-04-17 extra uhv present
+2025-04-17 extra maths present
+2025-04-17 regular maths present
+2025-04-18 regular physics absent
+2025-04-18 extra maths absent
+2025-04-18 regular physics present
+2025-04-21 regular edd present
+2025-04-21 regular physics absent
+2025-04-21 regular maths absent
+2025-04-22 regular uhv absent
+2025-04-22 regular sdf absent
+2025-04-22 regular physics absent
+Marks:
+Physics Midterm 2025-03-21 13
+Physics Endterm 2025-05-24 21
+Sdf Midterm 2025-03-21 10
+Sdf Endterm 2025-05-24 32
+Maths Midterm 2025-03-21 14
+Maths Endterm 2025-05-24 21
+Uhv Midterm 2025-03-21 13
+Uhv Endterm 2025-05-24 21
+Edd Midterm 2025-03-21 19
+Edd Endterm 2025-05-24 35

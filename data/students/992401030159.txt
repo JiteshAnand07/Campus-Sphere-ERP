@@ -1,0 +1,47 @@
+992401030159 khima
+Batch: Batch2
+Name: Vivaan Mehta
+Age: 18
+Phone: +91-8282958332
+Email: 992401030159@mail.jiit.ac.in
+Attendance:
+2025-04-22 regular edd present
+2025-04-22 regular uhv absent
+2025-04-22 extra physics absent
+2025-04-21 extra edd absent
+2025-04-21 regular uhv present
+2025-04-21 regular maths present
+2025-04-21 extra sdf present
+2025-04-18 regular uhv present
+2025-04-18 regular edd present
+2025-04-18 regular physics absent
+2025-04-18 regular maths present
+2025-04-17 extra edd absent
+2025-04-17 regular physics absent
+2025-04-17 extra sdf present
+2025-04-16 extra sdf present
+2025-04-16 extra maths present
+2025-04-16 regular physics present
+2025-04-16 regular uhv present
+2025-04-15 extra uhv absent
+2025-04-15 regular maths absent
+2025-04-15 regular edd absent
+2025-04-15 extra sdf absent
+2025-04-14 extra physics absent
+2025-04-14 regular uhv present
+2025-04-14 extra maths present
+2025-04-14 extra edd absent
+2025-04-13 extra uhv absent
+2025-04-13 regular maths present
+2025-04-13 extra physics present
+Marks:
+Physics Midterm 2025-03-21 18
+Physics Endterm 2025-05-24 17
+Sdf Midterm 2025-03-21 15
+Sdf Endterm 2025-05-24 34
+Maths Midterm 2025-03-21 12
+Maths Endterm 2025-05-24 27
+Uhv Midterm 2025-03-21 18
+Uhv Endterm 2025-05-24 27
+Edd Midterm 2025-03-21 18
+Edd Endterm 2025-05-24 23

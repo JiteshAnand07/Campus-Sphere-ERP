@@ -1,0 +1,42 @@
+992401030147 khilo
+Batch: Batch2
+Name: Tanmay Saini
+Age: 19
+Phone: +91-9098906496
+Email: 992401030147@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular maths present
+2025-04-13 regular maths absent
+2025-04-13 regular physics absent
+2025-04-14 extra sdf absent
+2025-04-14 regular physics present
+2025-04-14 regular sdf absent
+2025-04-15 regular maths present
+2025-04-15 extra uhv present
+2025-04-15 regular sdf present
+2025-04-16 extra maths present
+2025-04-16 extra uhv present
+2025-04-16 regular maths absent
+2025-04-17 extra edd present
+2025-04-17 extra physics present
+2025-04-17 regular maths present
+2025-04-18 extra uhv absent
+2025-04-18 extra physics present
+2025-04-18 regular sdf absent
+2025-04-21 extra maths absent
+2025-04-21 regular maths present
+2025-04-21 regular maths present
+2025-04-22 extra maths present
+2025-04-22 regular maths absent
+2025-04-22 regular sdf present
+Marks:
+Physics Midterm 2025-03-21 17
+Physics Endterm 2025-05-24 25
+Sdf Midterm 2025-03-21 20
+Sdf Endterm 2025-05-24 33
+Maths Midterm 2025-03-21 17
+Maths Endterm 2025-05-24 34
+Uhv Midterm 2025-03-21 14
+Uhv Endterm 2025-05-24 29
+Edd Midterm 2025-03-21 20
+Edd Endterm 2025-05-24 24

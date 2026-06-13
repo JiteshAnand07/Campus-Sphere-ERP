@@ -1,0 +1,45 @@
+992401030162 khinj
+Batch: Batch3
+Name: Ishaan Mehta
+Age: 20
+Phone: +91-7058029030
+Email: 992401030162@mail.jiit.ac.in
+Attendance:
+2025-04-22 extra edd absent
+2025-04-22 regular maths absent
+2025-04-22 extra physics present
+2025-04-22 extra sdf present
+2025-04-21 extra sdf absent
+2025-04-21 regular maths absent
+2025-04-21 extra physics absent
+2025-04-18 extra sdf present
+2025-04-18 extra edd present
+2025-04-18 extra uhv present
+2025-04-17 extra maths present
+2025-04-17 regular physics present
+2025-04-17 extra uhv absent
+2025-04-17 regular sdf absent
+2025-04-16 regular sdf present
+2025-04-16 extra physics present
+2025-04-16 regular uhv present
+2025-04-15 extra maths absent
+2025-04-15 extra sdf present
+2025-04-15 extra edd absent
+2025-04-14 regular uhv present
+2025-04-14 regular physics present
+2025-04-14 extra maths present
+2025-04-13 regular maths absent
+2025-04-13 regular uhv present
+2025-04-13 regular sdf present
+2025-04-13 regular edd absent
+Marks:
+Physics Midterm 2025-03-21 12
+Physics Endterm 2025-05-24 28
+Sdf Midterm 2025-03-21 10
+Sdf Endterm 2025-05-24 31
+Maths Midterm 2025-03-21 14
+Maths Endterm 2025-05-24 33
+Uhv Midterm 2025-03-21 19
+Uhv Endterm 2025-05-24 18
+Edd Midterm 2025-03-21 20
+Edd Endterm 2025-05-24 30

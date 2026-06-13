@@ -1,0 +1,46 @@
+992401030160 khinh
+Batch: Batch3
+Name: Aanya Patel
+Age: 20
+Phone: +91-7950587666
+Email: 992401030160@mail.jiit.ac.in
+Attendance:
+2025-04-22 regular sdf present
+2025-04-22 extra uhv present
+2025-04-22 regular edd absent
+2025-04-21 extra uhv present
+2025-04-21 extra sdf present
+2025-04-21 extra edd present
+2025-04-18 regular uhv absent
+2025-04-18 extra edd present
+2025-04-18 regular maths absent
+2025-04-17 extra edd present
+2025-04-17 regular sdf absent
+2025-04-17 extra uhv absent
+2025-04-17 regular physics present
+2025-04-16 extra sdf absent
+2025-04-16 extra edd absent
+2025-04-16 extra maths absent
+2025-04-15 extra sdf absent
+2025-04-15 regular uhv present
+2025-04-15 regular edd absent
+2025-04-15 extra physics absent
+2025-04-14 extra sdf absent
+2025-04-14 regular physics absent
+2025-04-14 extra maths present
+2025-04-14 extra edd absent
+2025-04-13 regular uhv present
+2025-04-13 regular sdf absent
+2025-04-13 regular physics absent
+2025-04-13 regular maths present
+Marks:
+Physics Midterm 2025-03-21 18
+Physics Endterm 2025-05-24 16
+Sdf Midterm 2025-03-21 13
+Sdf Endterm 2025-05-24 23
+Maths Midterm 2025-03-21 20
+Maths Endterm 2025-05-24 17
+Uhv Midterm 2025-03-21 19
+Uhv Endterm 2025-05-24 23
+Edd Midterm 2025-03-21 19
+Edd Endterm 2025-05-24 17

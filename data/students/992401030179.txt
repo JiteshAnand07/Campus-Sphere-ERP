@@ -1,0 +1,44 @@
+992401030179 khioa
+Batch: Batch6
+Name: Riya Singh
+Age: 19
+Phone: +91-9970894350
+Email: 992401030179@mail.jiit.ac.in
+Attendance:
+2025-04-22 regular physics present
+2025-04-22 extra maths present
+2025-04-22 regular uhv present
+2025-04-21 extra sdf present
+2025-04-21 extra physics present
+2025-04-21 extra maths present
+2025-04-18 regular uhv absent
+2025-04-18 extra sdf absent
+2025-04-18 regular physics absent
+2025-04-17 regular physics present
+2025-04-17 extra uhv present
+2025-04-17 extra edd present
+2025-04-16 regular physics absent
+2025-04-16 regular uhv absent
+2025-04-16 extra sdf present
+2025-04-15 extra edd present
+2025-04-15 extra maths present
+2025-04-15 regular physics absent
+2025-04-15 regular sdf absent
+2025-04-14 extra edd absent
+2025-04-14 regular uhv present
+2025-04-14 regular physics absent
+2025-04-14 extra maths present
+2025-04-13 regular uhv absent
+2025-04-13 extra physics absent
+2025-04-13 regular maths absent
+Marks:
+Physics Midterm 2025-03-21 16
+Physics Endterm 2025-05-24 34
+Sdf Midterm 2025-03-21 19
+Sdf Endterm 2025-05-24 27
+Maths Midterm 2025-03-21 17
+Maths Endterm 2025-05-24 34
+Uhv Midterm 2025-03-21 10
+Uhv Endterm 2025-05-24 22
+Edd Midterm 2025-03-21 14
+Edd Endterm 2025-05-24 26

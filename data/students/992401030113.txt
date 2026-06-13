@@ -1,0 +1,10 @@
+992401030113 khiik
+Batch: Batch3
+Name: Ishan Agrawal
+Age: 20
+Phone: +91-8437773088
+Email: 992401030113@mail.jiit.ac.in
+Attendance:
+Marks:
+Grades:
+RegisteredCourses:

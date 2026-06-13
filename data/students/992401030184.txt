@@ -1,0 +1,46 @@
+992401030184 khi`l
+Batch: Batch7
+Name: Ishaan Nair
+Age: 18
+Phone: +91-8552344322
+Email: 992401030184@mail.jiit.ac.in
+Attendance:
+2025-04-22 regular physics present
+2025-04-22 regular uhv present
+2025-04-22 regular maths present
+2025-04-21 regular sdf present
+2025-04-21 regular uhv absent
+2025-04-21 extra edd present
+2025-04-21 regular physics present
+2025-04-18 extra uhv present
+2025-04-18 regular edd present
+2025-04-18 extra physics present
+2025-04-18 extra sdf absent
+2025-04-17 extra physics present
+2025-04-17 regular sdf absent
+2025-04-17 regular maths present
+2025-04-16 regular physics present
+2025-04-16 extra edd absent
+2025-04-16 regular uhv present
+2025-04-15 regular uhv absent
+2025-04-15 extra edd present
+2025-04-15 extra physics present
+2025-04-15 extra sdf present
+2025-04-14 extra physics present
+2025-04-14 extra maths absent
+2025-04-14 regular sdf absent
+2025-04-13 regular edd present
+2025-04-13 regular sdf absent
+2025-04-13 regular uhv absent
+2025-04-13 regular physics present
+Marks:
+Physics Midterm 2025-03-21 20
+Physics Endterm 2025-05-24 26
+Sdf Midterm 2025-03-21 13
+Sdf Endterm 2025-05-24 17
+Maths Midterm 2025-03-21 20
+Maths Endterm 2025-05-24 16
+Uhv Midterm 2025-03-21 12
+Uhv Endterm 2025-05-24 32
+Edd Midterm 2025-03-21 14
+Edd Endterm 2025-05-24 27

@@ -1,0 +1,44 @@
+992401030197 khiao
+Batch: Batch10
+Name: Ishaan Singh
+Age: 19
+Phone: +91-7179164699
+Email: 992401030197@mail.jiit.ac.in
+Attendance:
+2025-04-22 extra uhv present
+2025-04-22 extra sdf absent
+2025-04-22 extra maths absent
+2025-04-21 regular physics present
+2025-04-21 regular edd present
+2025-04-21 regular uhv present
+2025-04-18 extra physics absent
+2025-04-18 regular uhv absent
+2025-04-18 regular maths present
+2025-04-18 extra sdf present
+2025-04-17 extra sdf absent
+2025-04-17 extra maths present
+2025-04-17 regular physics present
+2025-04-16 extra sdf absent
+2025-04-16 extra edd absent
+2025-04-16 extra physics present
+2025-04-15 regular maths present
+2025-04-15 extra edd absent
+2025-04-15 extra uhv absent
+2025-04-15 extra physics absent
+2025-04-14 regular maths absent
+2025-04-14 regular sdf absent
+2025-04-14 extra uhv absent
+2025-04-13 regular maths absent
+2025-04-13 regular uhv present
+2025-04-13 extra sdf absent
+Marks:
+Physics Midterm 2025-03-21 10
+Physics Endterm 2025-05-24 34
+Sdf Midterm 2025-03-21 15
+Sdf Endterm 2025-05-24 32
+Maths Midterm 2025-03-21 15
+Maths Endterm 2025-05-24 26
+Uhv Midterm 2025-03-21 18
+Uhv Endterm 2025-05-24 33
+Edd Midterm 2025-03-21 13
+Edd Endterm 2025-05-24 32

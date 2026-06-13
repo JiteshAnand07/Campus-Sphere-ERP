@@ -1,0 +1,42 @@
+992401030114 khiil
+Batch: Batch1
+Name: Shaurya Verma
+Age: 19
+Phone: +91-8669574942
+Email: 992401030114@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular sdf present
+2025-04-13 extra physics absent
+2025-04-13 regular sdf absent
+2025-04-14 regular uhv absent
+2025-04-14 extra uhv present
+2025-04-14 regular sdf present
+2025-04-15 regular physics present
+2025-04-15 extra maths absent
+2025-04-15 regular sdf present
+2025-04-16 regular physics present
+2025-04-16 regular uhv present
+2025-04-16 regular sdf present
+2025-04-17 regular maths present
+2025-04-17 regular sdf present
+2025-04-17 regular maths absent
+2025-04-18 extra edd absent
+2025-04-18 extra sdf present
+2025-04-18 regular sdf present
+2025-04-21 regular physics absent
+2025-04-21 regular maths present
+2025-04-21 regular sdf present
+2025-04-22 regular uhv present
+2025-04-22 regular sdf present
+2025-04-22 regular sdf absent
+Marks:
+Physics Midterm 2025-03-21 13
+Physics Endterm 2025-05-24 33
+Sdf Midterm 2025-03-21 12
+Sdf Endterm 2025-05-24 15
+Maths Midterm 2025-03-21 19
+Maths Endterm 2025-05-24 17
+Uhv Midterm 2025-03-21 19
+Uhv Endterm 2025-05-24 31
+Edd Midterm 2025-03-21 15
+Edd Endterm 2025-05-24 27

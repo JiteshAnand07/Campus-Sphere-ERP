@@ -1,0 +1,42 @@
+992401030108 khih`
+Batch: Batch1
+Name: Shivansh Prasad
+Age: 19
+Phone: +91-9196710846
+Email: 992401030108@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular maths absent
+2025-04-13 regular edd present
+2025-04-13 regular sdf absent
+2025-04-14 extra uhv absent
+2025-04-14 extra maths absent
+2025-04-14 regular maths present
+2025-04-15 regular maths present
+2025-04-15 regular physics present
+2025-04-15 regular maths present
+2025-04-16 extra maths absent
+2025-04-16 regular sdf present
+2025-04-16 regular maths present
+2025-04-17 extra physics absent
+2025-04-17 regular maths present
+2025-04-17 regular physics absent
+2025-04-18 extra sdf absent
+2025-04-18 regular sdf absent
+2025-04-18 regular physics absent
+2025-04-21 regular edd absent
+2025-04-21 regular sdf absent
+2025-04-21 regular maths absent
+2025-04-22 regular sdf absent
+2025-04-22 regular maths present
+2025-04-22 regular physics absent
+Marks:
+Physics Midterm 2025-03-21 18
+Physics Endterm 2025-05-24 20
+Sdf Midterm 2025-03-21 17
+Sdf Endterm 2025-05-24 31
+Maths Midterm 2025-03-21 10
+Maths Endterm 2025-05-24 31
+Uhv Midterm 2025-03-21 17
+Uhv Endterm 2025-05-24 18
+Edd Midterm 2025-03-21 13
+Edd Endterm 2025-05-24 21

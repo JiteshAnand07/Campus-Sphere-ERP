@@ -1,0 +1,27 @@
+meena.reddy *=<<!
+Department: MATHEMATICS
+Name: Meena Reddy
+Age: 44
+Phone: +91-8240884113
+Email: meena.reddy@mail.jiit.ac.in
+Courses: maths-1 Integrated Mathematics Advanced Mathematics
+Attendance:
+2025-04-05 lecture
+2025-04-06 lecture
+2025-04-07 lecture
+2025-04-08 lab
+2025-04-09 lecture
+2025-04-10 lecture
+2025-04-11 lecture
+2025-04-12 tutorial
+2025-04-13 lecture
+2025-04-14 lecture
+2025-04-15 lecture
+2025-04-16 lecture
+2025-04-17 lecture
+2025-04-18 tutorial
+2025-04-19 lecture
+2025-04-20 tutorial
+2025-04-21 lab
+2025-04-22 lecture
+2025-04-23 tutorial

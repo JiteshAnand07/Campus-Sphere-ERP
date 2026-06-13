@@ -1,0 +1,27 @@
+divya.singh +16?0
+Department: HSS
+Name: Divya Singh
+Age: 37
+Phone: +91-6938226964
+Email: divya.singh@mail.jiit.ac.in
+Courses: Lifeskills Psychology
+Attendance:
+2025-04-05 tutorial
+2025-04-06 tutorial
+2025-04-07 lecture
+2025-04-08 lecture
+2025-04-09 lecture
+2025-04-10 lecture
+2025-04-11 tutorial
+2025-04-12 lecture
+2025-04-13 lecture
+2025-04-14 lab
+2025-04-15 lecture
+2025-04-16 lecture
+2025-04-17 lecture
+2025-04-18 lecture
+2025-04-19 lecture
+2025-04-20 lecture
+2025-04-21 lecture
+2025-04-22 lecture
+2025-04-23 lecture

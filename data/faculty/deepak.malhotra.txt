@@ -1,0 +1,27 @@
+deepak.malhotra 07,*9
+Department: MECHANICAL
+Name: Deepak Malhotra
+Age: 28
+Phone: +91-7001830432
+Email: deepak.malhotra@mail.jiit.ac.in
+Courses: Engineering Drawing & Design Workshop
+Attendance:
+2025-04-05 lecture
+2025-04-06 lecture
+2025-04-07 lecture
+2025-04-08 lecture
+2025-04-09 lecture
+2025-04-10 tutorial
+2025-04-11 lecture
+2025-04-12 lecture
+2025-04-13 lecture
+2025-04-14 lecture
+2025-04-15 tutorial
+2025-04-16 lab
+2025-04-17 lecture
+2025-04-18 lecture
+2025-04-19 lecture
+2025-04-20 lecture
+2025-04-21 lecture
+2025-04-22 lab
+2025-04-23 lecture

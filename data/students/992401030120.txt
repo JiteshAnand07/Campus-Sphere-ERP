@@ -1,0 +1,42 @@
+992401030120 khijh
+Batch: Batch1
+Name: Aarav Kumar
+Age: 19
+Phone: +91-8965630467
+Email: 992401030120@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular sdf present
+2025-04-13 regular physics absent
+2025-04-13 regular physics present
+2025-04-14 extra edd absent
+2025-04-14 regular physics absent
+2025-04-14 regular sdf present
+2025-04-15 regular sdf absent
+2025-04-15 extra sdf present
+2025-04-15 regular sdf absent
+2025-04-16 regular physics present
+2025-04-16 regular sdf present
+2025-04-16 regular maths present
+2025-04-17 regular physics absent
+2025-04-17 extra physics present
+2025-04-17 regular maths absent
+2025-04-18 extra uhv absent
+2025-04-18 regular sdf absent
+2025-04-18 regular physics absent
+2025-04-21 regular maths present
+2025-04-21 extra uhv absent
+2025-04-21 regular sdf present
+2025-04-22 regular physics present
+2025-04-22 extra physics present
+2025-04-22 regular maths absent
+Marks:
+Physics Midterm 2025-03-21 16
+Physics Endterm 2025-05-24 26
+Sdf Midterm 2025-03-21 13
+Sdf Endterm 2025-05-24 21
+Maths Midterm 2025-03-21 18
+Maths Endterm 2025-05-24 28
+Uhv Midterm 2025-03-21 13
+Uhv Endterm 2025-05-24 21
+Edd Midterm 2025-03-21 17
+Edd Endterm 2025-05-24 19

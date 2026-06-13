@@ -1,0 +1,42 @@
+992401030150 khimh
+Batch: Batch2
+Name: Yashwardhan
+Age: 19
+Phone: +91-8266598571
+Email: 992401030150@mail.jiit.ac.in
+Attendance:
+2025-04-13 regular maths absent
+2025-04-13 regular sdf absent
+2025-04-13 regular physics present
+2025-04-14 regular sdf present
+2025-04-14 regular sdf absent
+2025-04-14 regular maths present
+2025-04-15 regular sdf present
+2025-04-15 extra edd absent
+2025-04-15 regular sdf absent
+2025-04-16 extra maths present
+2025-04-16 regular physics present
+2025-04-16 regular physics absent
+2025-04-17 extra sdf present
+2025-04-17 extra uhv present
+2025-04-17 regular sdf absent
+2025-04-18 regular uhv absent
+2025-04-18 regular maths absent
+2025-04-18 regular physics absent
+2025-04-21 extra maths absent
+2025-04-21 regular physics absent
+2025-04-21 regular maths absent
+2025-04-22 extra edd absent
+2025-04-22 regular physics present
+2025-04-22 regular maths present
+Marks:
+Physics Midterm 2025-03-21 14
+Physics Endterm 2025-05-24 15
+Sdf Midterm 2025-03-21 13
+Sdf Endterm 2025-05-24 31
+Maths Midterm 2025-03-21 17
+Maths Endterm 2025-05-24 22
+Uhv Midterm 2025-03-21 17
+Uhv Endterm 2025-05-24 19
+Edd Midterm 2025-03-21 17
+Edd Endterm 2025-05-24 21

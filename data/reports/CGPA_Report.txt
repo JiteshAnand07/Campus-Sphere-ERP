@@ -1,0 +1,105 @@
+============================================================
+  CGPA REPORT -- ALL STUDENTS
+============================================================
+  Roll No         Name                    CGPA
+  --------------------------------------------
+  992401030100    Aarav Kumar             0.00
+  992401030101    Dhruv Agarwal           0.00
+  992401030102    Pooja Pandey            0.00
+  992401030103    Kavya Joshi             0.00
+  992401030104    Ishaan Mehta            0.00
+  992401030105    Shivansh Prasad         0.00
+  992401030106    Aditya Singh            0.00
+  992401030107    Ridhima Khatri          0.00
+  992401030108    Shivansh Prasad         0.00
+  992401030109    Harshit Mishra          0.00
+  992401030110    Arjun Patel             0.00
+  992401030111    Rohit Yadav             0.00
+  992401030112    Vivaan Sharma           0.00
+  992401030114    Shaurya Verma           0.00
+  992401030115    Kian Rani               0.00
+  992401030116    Vihaan Gupta            0.00
+  992401030117    Manav Thakur            0.00
+  992401030118    Ishaan Mehta            0.00
+  992401030119    Ayaan Shah              0.00
+  992401030120    Aarav Kumar             0.00
+  992401030121    Aarav Kumar             0.00
+  992401030122    Arjun Patel             0.00
+  992401030123    Sai Kumar               0.00
+  992401030124    Shaurya Verma           0.00
+  992401030125    Kavya Joshi             0.00
+  992401030126    Vihaan Gupta            0.00
+  992401030127    Yashwardhan             0.00
+  992401030128    Shivansh Prasad        0.00
+  992401030129    Aarav Kumar             0.00
+  992401030130    Arjun Patel             0.00
+  992401030131    Kavya Joshi             0.00
+  992401030132    Pooja Pandey            0.00
+  992401030133    Aditya Singh            0.00
+  992401030134    Ridhima Khatri          0.00
+  992401030135    Vihaan Gupta            0.00
+  992401030136    Rohit Yadav             0.00
+  992401030137    Manav Thakur            0.00
+  992401030138    Reyansh Reddy           0.00
+  992401030139    Tanmay Saini            0.00
+  992401030140    Kavya Joshi            0.00
+  992401030141    Jitesh Anand           0.00
+  992401030142    Devansh Nair            0.00
+  992401030143    Tanmay Saini            0.00
+  992401030144    Vanshita Chawla         0.00
+  992401030145    Ayaan Shah              0.00
+  992401030146    Vanshita Chawla         0.00
+  992401030147    Tanmay Saini            0.00
+  992401030148    Krishna Joshi           0.00
+  992401030149    Vanshita Chawla         0.00
+  992401030150    Yashwardhan             0.00
+  992401030151    Aanya Nair              0.00
+  992401030152    Ishaan Sharma           0.00
+  992401030153    Vivaan Das              0.00
+  992401030154    Aarav Verma             0.00
+  992401030155    Saanvi Kumar            0.00
+  992401030156    Aanya Sharma            0.00
+  992401030157    Ishaan Joshi            0.00
+  992401030158    Saanvi Mehta            0.00
+  992401030159    Vivaan Mehta            0.00
+  992401030160    Aanya Patel             0.00
+  992401030161    Krishna Nair            0.00
+  992401030162    Ishaan Mehta            0.00
+  992401030163    Aarav Kumar             0.00
+  992401030164    Aditya Patel            0.00
+  992401030165    Vivaan Das              0.00
+  992401030166    Aditya Reddy            0.00
+  992401030167    Ishaan Sharma           0.00
+  992401030168    Aditya Sharma           0.00
+  992401030169    Ishaan Patel            0.00
+  992401030170    Diya Kumar              0.00
+  992401030171    Diya Patel              0.00
+  992401030172    Krishna Sharma          0.00
+  992401030173    Aanya Das               0.00
+  992401030174    Krishna Patel           0.00
+  992401030175    Krishna Verma           0.00
+  992401030176    Aanya Das               0.00
+  992401030177    Riya Singh              0.00
+  992401030178    Ishaan Patel            0.00
+  992401030179    Riya Singh              0.00
+  992401030180    Aanya Patel             0.00
+  992401030181    Krishna Mehta           0.00
+  992401030182    Vivaan Nair             0.00
+  992401030183    Diya Das                0.00
+  992401030184    Ishaan Nair             0.00
+  992401030185    Aanya Reddy             0.00
+  992401030186    Aanya Kumar             0.00
+  992401030187    Saanvi Mehta            0.00
+  992401030188    Vivaan Patel            0.00
+  992401030189    Saanvi Joshi            0.00
+  992401030190    Diya Singh              0.00
+  992401030191    Aanya Patel             0.00
+  992401030192    Vivaan Patel            0.00
+  992401030193    Riya Nair               0.00
+  992401030194    Riya Sharma             0.00
+  992401030195    Ishaan Verma            0.00
+  992401030196    Krishna Das             0.00
+  992401030197    Ishaan Singh            0.00
+  992401030198    Ananya Kumar            0.00
+  992401030199    Ishaan Kumar            0.00
+============================================================

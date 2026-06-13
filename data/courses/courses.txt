@@ -1,0 +1,5 @@
+MATH101|Mathematics-I|4|rahul.verma
+PHY101|Physics-I|4|amit.patel
+SDF101|Software-Dev-Fundamentals|3|neha.sharma
+UHV101|Universal-Human-Values|2|priya.iyer
+EDD101|Engineering-Design-Drawing|3|vikas.joshi

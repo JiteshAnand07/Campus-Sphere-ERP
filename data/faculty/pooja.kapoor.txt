@@ -1,0 +1,27 @@
+pooja.kapoor 9(77*
+Department: CSE
+Name: Pooja Kapoor
+Age: 29
+Phone: +91-9779876840
+Email: pooja.kapoor@mail.jiit.ac.in
+Courses: CYBER SECURITY WEB DEV
+Attendance:
+2025-04-05 lecture
+2025-04-06 lecture
+2025-04-07 lecture
+2025-04-08 lecture
+2025-04-09 tutorial
+2025-04-10 lab
+2025-04-11 lecture
+2025-04-12 lecture
+2025-04-13 lecture
+2025-04-14 lecture
+2025-04-15 tutorial
+2025-04-16 lecture
+2025-04-17 lecture
+2025-04-18 lab
+2025-04-19 tutorial
+2025-04-20 lecture
+2025-04-21 lecture
+2025-04-22 lecture
+2025-04-23 lecture

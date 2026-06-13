@@ -1,0 +1,42 @@
+992401030115 khiim
+Batch: Batch1
+Name: Kian Rani
+Age: 20
+Phone: +91-7446509140
+Email: 992401030115@mail.jiit.ac.in
+Attendance:
+2025-04-13 extra sdf present
+2025-04-13 extra edd absent
+2025-04-13 regular physics present
+2025-04-14 regular sdf present
+2025-04-14 regular sdf present
+2025-04-14 regular maths absent
+2025-04-15 extra uhv present
+2025-04-15 regular maths absent
+2025-04-15 regular maths absent
+2025-04-16 extra uhv absent
+2025-04-16 regular maths present
+2025-04-16 regular maths present
+2025-04-17 regular physics present
+2025-04-17 extra sdf absent
+2025-04-17 regular physics present
+2025-04-18 extra physics absent
+2025-04-18 regular physics absent
+2025-04-18 regular maths absent
+2025-04-21 regular maths absent
+2025-04-21 extra maths present
+2025-04-21 regular physics present
+2025-04-22 extra uhv present
+2025-04-22 extra edd absent
+2025-04-22 regular maths absent
+Marks:
+Physics Midterm 2025-03-21 20
+Physics Endterm 2025-05-24 22
+Sdf Midterm 2025-03-21 17
+Sdf Endterm 2025-05-24 23
+Maths Midterm 2025-03-21 20
+Maths Endterm 2025-05-24 20
+Uhv Midterm 2025-03-21 10
+Uhv Endterm 2025-05-24 18
+Edd Midterm 2025-03-21 10
+Edd Endterm 2025-05-24 21
