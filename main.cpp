@@ -62,7 +62,7 @@ string padString(const string &str, size_t length) {
 // Utility: XOR encryption (unchanged from original)
 // ============================================================
 string encryptDecrypt(const string &pass) {
-    
+
     string result = pass;
     char key = 'X';
     for (char &c : result) c ^= key;
@@ -583,22 +583,26 @@ public:
 // ============================================================
 string autoAssignBatch(const string &studentID) {
     int batchNumber = 1;
+
     while (true) {
         string batchName = "Batch" + to_string(batchNumber);
         string filename  = BATCHES_PATH + batchName + ".txt";
         int count = 0; string line;
         ifstream infile(filename);
+
         if (infile.is_open()) {
             while (getline(infile, line))
                 if (!line.empty() && line != "\r") count++;
             infile.close();
         }
+
         if (count < 30) {
             ofstream outfile(filename, ios::app);
             outfile << studentID << "\n";
             outfile.close();
             return batchName;
         }
+        
         batchNumber++;
     }
 }
