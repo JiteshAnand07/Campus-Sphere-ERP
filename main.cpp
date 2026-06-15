@@ -1,7 +1,6 @@
 /*
  * ============================================================
  *   CAMPUS-SPHERE  —  College ERP System
- *   Upgraded: 11 new features integrated into existing arch.
  *   Standard: C++17  |  No external libraries
  * ============================================================
  */
@@ -63,9 +62,11 @@ string padString(const string &str, size_t length) {
 // Utility: XOR encryption (unchanged from original)
 // ============================================================
 string encryptDecrypt(const string &pass) {
+    
     string result = pass;
     char key = 'X';
     for (char &c : result) c ^= key;
+
     return result;
 }
 
